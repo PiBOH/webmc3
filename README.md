@@ -2,7 +2,8 @@
   
   **||| Verson 1.12.2 |||**
 
-  Online version is at https://bobthebuilderb.github.io/eaglercraft-1.12.2/ 
+  Online version is at https://piboh.github.io/webmc3
+  or, if it dont work you ca find it at https://webmc3.vercel.app/
   
   online version saves your data and anything you do, so you don't have to always download and import your worlds all the time.
   
